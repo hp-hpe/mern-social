@@ -1,4 +1,3 @@
 #!/bin/sh
 cd dist
-MONGODB_URI=mongodb://146.148.91.27:30002 npm start
-
+MONGODB_URI=mongodb://35.221.175.75:30001 npm start
