@@ -1,3 +1,4 @@
 #!/bin/sh
 cd dist
-MONGODB_URI=mongodb+srv://hphpe:hdTlWN9GXSCN2Zry@cluster0.oc2cf.mongodb.net/myFirstDatabase?retryWrites=true&w=majority npm start
+export MONGODB_URI=mongodb+srv://hphpe:hdTlWN9GXSCN2Zry@cluster0.oc2cf.mongodb.net/myFirstDatabase?retryWrites=true&w=majority 
+npm start
