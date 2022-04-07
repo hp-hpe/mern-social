@@ -1,2 +1,2 @@
 #!/bin/sh
-wget http://localhost:3000s
+wget http://localhost:3000
