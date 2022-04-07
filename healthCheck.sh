@@ -1,2 +1,3 @@
 #!/bin/sh
-curl https://gopaddle.nashad.xyz:30002/
+echo "running"
+#curl https://gopaddle.nashad.xyz:30002/
