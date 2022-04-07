@@ -1,3 +1,2 @@
 #!/bin/sh
-echo "running"
-#curl https://gopaddle.nashad.xyz:30002/
+wget http://localhost:3000s
